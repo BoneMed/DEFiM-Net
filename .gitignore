@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.claude/
+.ipynb_checkpoints/
+.env
+
+/Results/
+/viz_504_tp119/

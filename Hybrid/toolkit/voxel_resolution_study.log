@@ -1,0 +1,56 @@
+[INFO] Found 424 cases in H:\pythonproject\PHD_PROGRAM\GCN_Stress\Data\ElementGraph_Tumor_Train
+[INFO] Selected 3 cases:
+  MV04_L2_VOL_30_MV04_L2_VOL_30_sp1.npz
+  MV04_L2_VOL_30_MV04_L2_VOL_30_sp4.npz
+  MV04_L3_VOL_20_MV04_L3_VOL_20_sp51.npz
+
+[R=64] MV04_L2_VOL_30_MV04_L2_VOL_30_sp1.npz
+  voxel=1.132mm  bone_vox=67,116  coverage=0.572  collision=0.910  shell_erosions=16  r2_log=0.9653  mae_mpa=0.0035  mem=3.5MB  (1.0s)
+
+[R=128] MV04_L2_VOL_30_MV04_L2_VOL_30_sp1.npz
+  voxel=0.566mm  bone_vox=392,535  coverage=0.611  collision=0.435  shell_erosions=28  r2_log=0.9869  mae_mpa=0.0018  mem=28.0MB  (1.6s)
+
+[R=256] MV04_L2_VOL_30_MV04_L2_VOL_30_sp1.npz
+  voxel=0.283mm  bone_vox=2,591,413  coverage=0.163  collision=0.007  shell_erosions=52  r2_log=0.9950  mae_mpa=0.0005  mem=224.0MB  (10.2s)
+
+[R=512] MV04_L2_VOL_30_MV04_L2_VOL_30_sp1.npz
+  voxel=0.142mm  bone_vox=18,321,228  coverage=0.023  collision=0.001  shell_erosions=64  r2_log=0.9964  mae_mpa=0.0002  mem=1792.0MB  (89.9s)
+
+[R=64] MV04_L2_VOL_30_MV04_L2_VOL_30_sp4.npz
+  voxel=1.132mm  bone_vox=67,116  coverage=0.572  collision=0.910  shell_erosions=16  r2_log=0.9664  mae_mpa=0.0024  mem=3.5MB  (1.0s)
+
+[R=128] MV04_L2_VOL_30_MV04_L2_VOL_30_sp4.npz
+  voxel=0.566mm  bone_vox=392,535  coverage=0.611  collision=0.435  shell_erosions=28  r2_log=0.9855  mae_mpa=0.0013  mem=28.0MB  (1.6s)
+
+[R=256] MV04_L2_VOL_30_MV04_L2_VOL_30_sp4.npz
+  voxel=0.283mm  bone_vox=2,591,413  coverage=0.163  collision=0.007  shell_erosions=52  r2_log=0.9933  mae_mpa=0.0004  mem=224.0MB  (10.8s)
+
+[R=512] MV04_L2_VOL_30_MV04_L2_VOL_30_sp4.npz
+  voxel=0.142mm  bone_vox=18,321,228  coverage=0.023  collision=0.001  shell_erosions=64  r2_log=0.9950  mae_mpa=0.0002  mem=1792.0MB  (95.3s)
+
+[R=64] MV04_L3_VOL_20_MV04_L3_VOL_20_sp51.npz
+  voxel=1.229mm  bone_vox=67,769  coverage=0.552  collision=0.925  shell_erosions=14  r2_log=0.9713  mae_mpa=0.0020  mem=3.5MB  (1.2s)
+
+[R=128] MV04_L3_VOL_20_MV04_L3_VOL_20_sp51.npz
+  voxel=0.615mm  bone_vox=387,632  coverage=0.638  collision=0.504  shell_erosions=25  r2_log=0.9920  mae_mpa=0.0010  mem=28.0MB  (1.9s)
+
+[R=256] MV04_L3_VOL_20_MV04_L3_VOL_20_sp51.npz
+  voxel=0.307mm  bone_vox=2,524,001  coverage=0.194  collision=0.017  shell_erosions=47  r2_log=0.9993  mae_mpa=0.0002  mem=224.0MB  (10.8s)
+
+[R=512] MV04_L3_VOL_20_MV04_L3_VOL_20_sp51.npz
+  voxel=0.154mm  bone_vox=17,791,436  coverage=0.028  collision=0.000  shell_erosions=64  r2_log=1.0000  mae_mpa=0.0000  mem=1792.0MB  (95.4s)
+
+[saved] H:\pythonproject\PHD_PROGRAM\GCN_Stress\Results\VoxelResolutionStudy\voxel_resolution_metrics.csv
+
+====================================================================================================
+    R   voxel(mm)    bone_vox   coverage   collision   shell_layer    r2_log    mae_MPa    mem_MB
+====================================================================================================
+   64      1.1645      67,334     0.5652      0.9147          15.3    0.9676    0.00264       3.5
+  128      0.5822     390,901     0.6203      0.4578          27.0    0.9881    0.00138      28.0
+  256      0.2911   2,568,942     0.1732      0.0103          50.3    0.9959    0.00035     224.0
+  512      0.1456  18,144,631     0.0248      0.0008          64.0    0.9971    0.00014    1792.0
+====================================================================================================
+[saved] H:\pythonproject\PHD_PROGRAM\GCN_Stress\Results\VoxelResolutionStudy\voxel_resolution_analysis.png
+[saved] H:\pythonproject\PHD_PROGRAM\GCN_Stress\Results\VoxelResolutionStudy\per_case_roundtrip_r2.png
+
+Done.

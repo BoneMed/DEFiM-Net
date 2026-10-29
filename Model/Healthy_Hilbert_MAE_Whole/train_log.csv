@@ -1,0 +1,2 @@
+epoch,train_loss,val_loss,val_mae,val_r2,val_global_mae,val_global_r2,val_mre_case,val_mre_voxel,lr,sec
+1,0.095973,0.043070,0.0008,0.9598,0.0008,0.9598,0.1418,0.0863,1.000000e-04,7810.2

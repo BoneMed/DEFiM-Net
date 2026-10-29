@@ -1,0 +1,5 @@
+# ninja log v7
+20	4552	7993598930733586	H:/pythonproject/PHD_PROGRAM/GCN_Stress/thirdparty/causal-conv1d/build/temp.win-amd64-cpython-38/Release/csrc/causal_conv1d_update.obj	de9f551e28bcf659
+9	9551	7993598930622939	H:/pythonproject/PHD_PROGRAM/GCN_Stress/thirdparty/causal-conv1d/build/temp.win-amd64-cpython-38/Release/csrc/causal_conv1d.obj	48a43e1268cdf9b4
+15	16072	7993598930689652	H:/pythonproject/PHD_PROGRAM/GCN_Stress/thirdparty/causal-conv1d/build/temp.win-amd64-cpython-38/Release/csrc/causal_conv1d_fwd.obj	8bf8c65ea3cd88c7
+12	177714	7993598930658165	H:/pythonproject/PHD_PROGRAM/GCN_Stress/thirdparty/causal-conv1d/build/temp.win-amd64-cpython-38/Release/csrc/causal_conv1d_bwd.obj	3db470b0463d8eeb
